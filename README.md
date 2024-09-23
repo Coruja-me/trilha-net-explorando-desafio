@@ -19,3 +19,10 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Resultado
+Implementei um sistema de Switch para ter mais opções de escolha para o usuário poder cadastrar os hóspedes, a suíte e fazer a reserva.
+
+Adicionei também que todo novo cadastro seja armazenado em um JSON, para testar meus conhecimentos acima das aulas passadas sobre isso.
+
+Além disso, concluí a proposta do desafio com sucesso!

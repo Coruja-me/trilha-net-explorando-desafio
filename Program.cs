@@ -29,7 +29,7 @@ do{
 
             Console.WriteLine("Digite o Primeiro Nome do hóspede:");
             string nm = Console.ReadLine();
-            Console.WriteLine("Digite o Sobreome do hóspede:");
+            Console.WriteLine("Digite o Sobrenome do hóspede:");
             string sbn = Console.ReadLine();
 
             Pessoa pessoa = new(nome: nm, sobrenome: sbn);
